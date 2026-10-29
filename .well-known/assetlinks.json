@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gordian.katalogue",
+      "sha256_cert_fingerprints": [
+        "FA:CC:6E:B4:F6:5C:F3:F5:72:7A:6F:B4:41:97:E4:E0:60:DE:58:97:C1:30:DD:14:9B:05:AE:5A:F6:55:A1:27"
+      ]
+    }
+  }
+]
